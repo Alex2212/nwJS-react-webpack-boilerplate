@@ -1,5 +1,5 @@
-# react-webapp-boilerplate
-React boilerplate for production level apps
+# nwjs-react-webapp-boilerplate
+NWJS boilerplate for react, webpack and deploy them in windows machines
 
 - Uses webpack-2 configuration
 - Supports Hot Module Replacement for dev mode
@@ -19,5 +19,5 @@ React boilerplate for production level apps
 - run `npm start` and your app is ready.
 
 ## Production
-- run `npm build:prod` to build the files
-- run `npm start:prod` to start your app in production mode
+- run `npm run prod-build` to build the files
+- run `npm run dist` to create an exe file to deploy into windows machines
